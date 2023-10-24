@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'watchflix',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
