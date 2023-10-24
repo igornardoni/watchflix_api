@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyListCreationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="six" />
+            <item index="1" class="java.lang.String" itemvalue="typed-ast" />
+            <item index="2" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="3" class="java.lang.String" itemvalue="text-unidecode" />
+            <item index="4" class="java.lang.String" itemvalue="wrapt" />
+            <item index="5" class="java.lang.String" itemvalue="asgiref" />
+            <item index="6" class="java.lang.String" itemvalue="astroid" />
+            <item index="7" class="java.lang.String" itemvalue="toml" />
+            <item index="8" class="java.lang.String" itemvalue="lazy-object-proxy" />
+            <item index="9" class="java.lang.String" itemvalue="Faker" />
+            <item index="10" class="java.lang.String" itemvalue="Django" />
+            <item index="11" class="java.lang.String" itemvalue="pylint" />
+            <item index="12" class="java.lang.String" itemvalue="colorama" />
+            <item index="13" class="java.lang.String" itemvalue="mccabe" />
+            <item index="14" class="java.lang.String" itemvalue="isort" />
+            <item index="15" class="java.lang.String" itemvalue="pytz" />
+            <item index="16" class="java.lang.String" itemvalue="Markdown" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E116" />
+          <option value="E114" />
+          <option value="E305" />
+          <option value="E302" />
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="gallery.models.Fotografia.objects" />
+          <option value="apps.gallery.models.Fotografia.objects" />
+          <option value="school_api.models.Student.objects" />
+          <option value="school_api.models.Course.objects" />
+          <option value="school_api.models.Registration.objects" />
+          <option value="clientes.models.Cliente.objects" />
+          <option value="escola.models.Aluno.objects" />
+          <option value="escola.models.Curso.objects" />
+          <option value="escola.models.Matricula.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

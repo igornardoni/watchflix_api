@@ -1,0 +1,362 @@
+[
+{
+  "model": "watchflix.programa",
+  "pk": 1,
+  "fields": {
+    "titulo": "Criminal Minds",
+    "tipo": "S",
+    "data_lancamento": "2005-09-22",
+    "likes": 10000,
+    "dislikes": 50
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 2,
+  "fields": {
+    "titulo": "Chaves",
+    "tipo": "S",
+    "data_lancamento": "1972-06-20",
+    "likes": 87500,
+    "dislikes": 1
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 3,
+  "fields": {
+    "titulo": "Bones",
+    "tipo": "S",
+    "data_lancamento": "2005-09-13",
+    "likes": 9000,
+    "dislikes": 40
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 4,
+  "fields": {
+    "titulo": "Star Wars: Episódio V - O Império Contra-Ataca",
+    "tipo": "F",
+    "data_lancamento": "1980-05-21",
+    "likes": 8000,
+    "dislikes": 30
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 5,
+  "fields": {
+    "titulo": "O Exorcista",
+    "tipo": "F",
+    "data_lancamento": "1973-12-26",
+    "likes": 7000,
+    "dislikes": 20
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 6,
+  "fields": {
+    "titulo": "Chapolin Colorado",
+    "tipo": "S",
+    "data_lancamento": "1973-02-28",
+    "likes": 78845,
+    "dislikes": 2
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 7,
+  "fields": {
+    "titulo": "The Mentalist",
+    "tipo": "S",
+    "data_lancamento": "2008-09-23",
+    "likes": 10441,
+    "dislikes": 12
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 8,
+  "fields": {
+    "titulo": "Breaking Bad",
+    "tipo": "S",
+    "data_lancamento": "2008-01-20",
+    "likes": 9500,
+    "dislikes": 45
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 9,
+  "fields": {
+    "titulo": "House",
+    "tipo": "S",
+    "data_lancamento": "2004-11-16",
+    "likes": 8500,
+    "dislikes": 35
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 10,
+  "fields": {
+    "titulo": "Supernatural",
+    "tipo": "S",
+    "data_lancamento": "2005-09-13",
+    "likes": 9200,
+    "dislikes": 42
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 11,
+  "fields": {
+    "titulo": "Arrow",
+    "tipo": "S",
+    "data_lancamento": "2012-10-10",
+    "likes": 7800,
+    "dislikes": 28
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 12,
+  "fields": {
+    "titulo": "The Flash",
+    "tipo": "S",
+    "data_lancamento": "2014-10-07",
+    "likes": 8200,
+    "dislikes": 32
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 13,
+  "fields": {
+    "titulo": "Smallville",
+    "tipo": "S",
+    "data_lancamento": "2001-10-16",
+    "likes": 8800,
+    "dislikes": 38
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 14,
+  "fields": {
+    "titulo": "Os Simpsons",
+    "tipo": "S",
+    "data_lancamento": "1989-12-17",
+    "likes": 10500,
+    "dislikes": 55
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 15,
+  "fields": {
+    "titulo": "Family Guy",
+    "tipo": "S",
+    "data_lancamento": "1999-01-31",
+    "likes": 9200,
+    "dislikes": 42
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 16,
+  "fields": {
+    "titulo": "Rick & Morty",
+    "tipo": "S",
+    "data_lancamento": "2013-12-02",
+    "likes": 9900,
+    "dislikes": 49
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 17,
+  "fields": {
+    "titulo": "Naruto Shippuden",
+    "tipo": "S",
+    "data_lancamento": "2007-02-15",
+    "likes": 19800,
+    "dislikes": 48
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 18,
+  "fields": {
+    "titulo": "Dragon Ball Z",
+    "tipo": "S",
+    "data_lancamento": "1989-04-26",
+    "likes": 10500,
+    "dislikes": 55
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 19,
+  "fields": {
+    "titulo": "One Piece",
+    "tipo": "S",
+    "data_lancamento": "1999-10-20",
+    "likes": 10100,
+    "dislikes": 51
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 20,
+  "fields": {
+    "titulo": "Bleach",
+    "tipo": "S",
+    "data_lancamento": "2004-10-05",
+    "likes": 9300,
+    "dislikes": 43
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 21,
+  "fields": {
+    "titulo": "One Punch Man",
+    "tipo": "S",
+    "data_lancamento": "2015-10-05",
+    "likes": 9700,
+    "dislikes": 47
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 22,
+  "fields": {
+    "titulo": "Star Trek - A Série Clássica",
+    "tipo": "S",
+    "data_lancamento": "1966-09-08",
+    "likes": 8000,
+    "dislikes": 13
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 23,
+  "fields": {
+    "titulo": "Vingadores: Ultimato",
+    "tipo": "F",
+    "data_lancamento": "2019-04-26",
+    "likes": 11000,
+    "dislikes": 60
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 24,
+  "fields": {
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "tipo": "F",
+    "data_lancamento": "2008-07-18",
+    "likes": 32500,
+    "dislikes": 5
+  }
+},
+{
+  "model": "watchflix.programa",
+  "pk": 25,
+  "fields": {
+    "titulo": "Homem de Ferro",
+    "tipo": "F",
+    "data_lancamento": "2008-04-30",
+    "likes": 10000,
+    "dislikes": 50
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 26,
+  "fields": {
+    "titulo": "O Massacre da Serra Elétrica",
+    "tipo": "F",
+    "data_lancamento": "1987-08-28",
+    "likes": 14000,
+    "dislikes": 50
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 27,
+  "fields": {
+    "titulo": "Psicose",
+    "tipo": "F",
+    "data_lancamento": "1960-06-16",
+    "likes": 18000,
+    "dislikes": 50
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 28,
+  "fields": {
+    "titulo": "Invocação do Mal",
+    "tipo": "F",
+    "data_lancamento": "2013-09-13",
+    "likes": 17852,
+    "dislikes": 50
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 29,
+  "fields": {
+    "titulo": "O Chamado",
+    "tipo": "F",
+    "data_lancamento": "2002-10-02",
+    "likes": 19800,
+    "dislikes": 50
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 30,
+  "fields": {
+    "titulo": "Arraste-Me para o Inferno",
+    "tipo": "F",
+    "data_lancamento": "2009-05-29",
+    "likes": 11000,
+    "dislikes": 50
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 31,
+  "fields": {
+    "titulo": "A Bruxa",
+    "tipo": "F",
+    "data_lancamento": "2016-02-19",
+    "likes": 9873,
+    "dislikes": 51
+  }
+},
+
+{
+  "model": "watchflix.programa",
+  "pk": 32,
+  "fields": {
+    "titulo": "Homem-Aranha 2",
+    "tipo": "F",
+    "data_lancamento": "2004-06-30",
+    "likes": 31000,
+    "dislikes": 5
+  }
+}
+
+]
