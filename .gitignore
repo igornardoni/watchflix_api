@@ -139,4 +139,4 @@ dmypy.json
 cython_debug/
 
 # Another files
-get-pip
+get-pip.py
